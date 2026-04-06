@@ -2,7 +2,7 @@
 
 ## What You've Built
 A fully functional AI chatbot powered by **Google Gemini** with:
-- ✅ Beautiful web interface
+ Beautiful web interface
 - ✅ Backend server using Node.js
 - ✅ Integration with Gemini 1.5 Pro & Flash models
 - ✅ Multiple AI personalities (Helpful, Creative, Professional, Teacher, Coder)
