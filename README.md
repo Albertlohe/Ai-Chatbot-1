@@ -95,7 +95,7 @@ A fully functional AI chatbot powered by **Google Gemini** with:
 
 ---
 
-## 🎨 Features Explained
+##  Features Explained
 
 ### 1. Multiple Personalities
 Switch between different AI personas:
