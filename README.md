@@ -191,7 +191,7 @@ Start with FREE tier!
 
 ---
 
-## 📝 Project Structure
+##  Project Structure
 
 ```
 ai-chatbot/
