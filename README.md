@@ -30,7 +30,7 @@ A fully functional AI chatbot powered by **Google Gemini** with:
 
 ---
 
-## 🚀 Step-by-Step Setup Instructions
+##  Step-by-Step Setup Instructions
 
 ### Step 1: Extract the Files
 1. Download and extract the `ai-chatbot` folder
