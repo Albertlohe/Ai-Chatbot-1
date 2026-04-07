@@ -206,7 +206,7 @@ ai-chatbot/
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 **Easy:**
 - Change colors/styling
